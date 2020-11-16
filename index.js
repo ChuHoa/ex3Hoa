@@ -44,12 +44,14 @@ let hangxe=["Yamaha","Kawasaki","Ducati","Triumph","Honda"]
 // myObject.name="Hoa"
 // console.log("Ten cua m la: "+myObject.name)
 
-let inventory={
-    'gold':500,
-    'pouch':['flint','twine','gemstone'],
-    'backpack':['xylophone','dagger','bedroll','bread loaf']
-}
-inventory.pocket=['seashell','strange berry','lint']
-inventory.gold+=50
-delete inventory.pouch
-console.log(inventory)
+// let inventory={
+//     'gold':500,
+//     'pouch':['flint','twine','gemstone'],
+//     'backpack':['xylophone','dagger','bedroll','bread loaf']
+// }
+// inventory.pocket=['seashell','strange berry','lint']
+// //inventory['pocket']=['seashell','strange berry','lint'] cach 2
+// inventory.gold+=50
+// delete inventory.pouch
+// inventory.backpack.splice(1,1)
+// console.log(inventory)
