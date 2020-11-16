@@ -55,3 +55,10 @@ let hangxe=["Yamaha","Kawasaki","Ducati","Triumph","Honda"]
 // delete inventory.pouch
 // inventory.backpack.splice(1,1)
 // console.log(inventory)
+
+let myheading=document.getElementById("heading1")
+console.dir(myheading)
+myheading.textContent="Hello"
+myheading.style.color="pink"
+myheading.style.backgroundColor="black"
+myheading.style.fontSize="50px"
