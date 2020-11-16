@@ -62,3 +62,4 @@ myheading.textContent="Hello"
 myheading.style.color="pink"
 myheading.style.backgroundColor="black"
 myheading.style.fontSize="50px"
+myheading.style.size
